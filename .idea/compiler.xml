@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="8">
+      <module name="day08" target="8" />
+      <module name="day081" target="8" />
+      <module name="day09" target="8" />
+      <module name="day11" target="8" />
+      <module name="HeiMaJava" target="8" />
+      <module name="HeiMaJavatwo" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
